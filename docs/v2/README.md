@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./src/images/simple1.png" />
+<img src="./Images/simple1.png" />
 
 <br>
 
@@ -17,6 +17,7 @@
 [![GitHub license](https://img.shields.io/github/license/esofar/cnblogs-theme-silence.svg)](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory/blob/master/LICENSE)
 [![compatibility](https://camo.githubusercontent.com/31ac3f0ce805dc34a29b615131caa26cbf4dc127/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f62726f777365722d2532306368726f6d6525323025374325323066697265666f782532302537432532306f706572612532302537432532307361666172692532302537432532306965253230253345253344253230392d6c69676874677265792e737667)](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory)
 
+
 # Silence
 
 📖 本主题以阅读为核心，美化博客园的显示效果，提高用户体验。 
@@ -27,7 +28,7 @@
 
 # Docs
 
-[永久地址](https://bndong.github.io/Cnblogs-Theme-SimpleMemory/v2)　[备用地址](https://www.dbnuo.com/Cnblogs-Theme-SimpleMemory/docs/v2/)
+[永久地址](https://bndong.github.io/Cnblogs-Theme-SimpleMemory/v2)　[备用地址](https://www.dbnuo.com/Cnblogs-Theme-SimpleMemory/docs/v2)
 
 > 推荐大家使用最新版本，新版本的发布往往代表着功能的完善和bug的修复！
 > <br>文档的源文件在 /docs 目录，大家有更完善的文档或建议可以 Pull Request 或 Issues 给我。
